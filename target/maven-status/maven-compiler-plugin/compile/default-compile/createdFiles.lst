@@ -1,0 +1,7 @@
+com\inventario\modelo\Alimento.class
+com\inventario\modelo\Ropa.class
+com\inventario\modelo\Producto.class
+com\inventario\app\Main.class
+com\inventario\modelo\Electronico.class
+com\inventario\modelo\Vendible.class
+com\mycompany\sistemagestioninventarios\SistemaGestionInventarios.class
